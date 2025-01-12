@@ -2,3 +2,5 @@
 tempCodeRunnerFile.py
 myArchive/
 .idea
+scripts/
+.pre-commit-config.yaml
